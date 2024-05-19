@@ -94,16 +94,22 @@
 
 ## Github Stats  
 
-<div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td style="text-align: center; padding: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=naidu199&show_icons=true&count_private=true&hide_border=true" style="height: 200px;" />
+    </td>
+    <td style="text-align: center; padding: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naidu199&hide_border=true&layout=compact" style="height: 200px;" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align: center; padding: 10px;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=naidu199&hide_border=true" style="height: 200px;" />
+    </td>
+  </tr>
+</table>
 
-  
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naidu199&hide_border=true&layout=compact" style="height: 200px;" />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naidu199&hide_border=true" style="height: 200px;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=naidu199&show_icons=true&count_private=true&hide_border=true" style="height: 200px;" />
-
-</div>
 
   
 
