@@ -53,7 +53,7 @@
   
 - ❓ Ask me about anything related to flutter, machine learning and related technologies
 
-- - 👨‍💻 All of my projects are available at [https://github.com/naidu199](https://github.com/naidu199)
+-  👨‍💻 All of my projects are available at [https://github.com/naidu199](https://github.com/naidu199)
 
 - 📫 How to reach me **narasimhanaidu1909@gmail.com**
   
@@ -96,11 +96,12 @@
 
 <div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=naidu199&show_icons=true&count_private=true&hide_border=true" style="height: 200px;" />
+  
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naidu199&hide_border=true&layout=compact" style="height: 200px;" />
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=naidu199&hide_border=true" style="height: 200px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=naidu199&show_icons=true&count_private=true&hide_border=true" style="height: 200px;" />
 
 </div>
 
