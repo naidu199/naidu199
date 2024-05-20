@@ -102,6 +102,7 @@
     <td style="text-align: center; padding: 10px;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naidu199&hide_border=true&layout=compact" style="height: 200px;" />
     </td>
+    
   </tr>
   <tr>
     <td colspan="2" style="text-align: center; padding: 10px;">
