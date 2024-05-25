@@ -55,7 +55,10 @@
 
 -  👨‍💻 All of my projects are available at [https://github.com/naidu199](https://github.com/naidu199)
 
-- 📫 How to reach me **narasimhanaidu1909@gmail.com**
+- 📫 How to reach me <br>
+      **LinkedIn:** **www.linkedin.com/in/naidu199** <br>
+      **Email:** **narasimhanaidu1909@gmail.com**
+      
   
   
 
