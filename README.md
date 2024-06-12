@@ -31,14 +31,33 @@
 
 
 ### Glad to see you here!  
-👋 Hello! I'm Korrapati Thirumala Narasimha Naidu, currently pursuing a Bachelor of Technology in Computer Science and Engineering at Vishnu Institute of Technology.
+👋 Hi, I'm Korrapati Thirumala Narasimha Naidu from Bhimavaram, AP. With a B.Tech in Computer Science (Honors in AI) from Vishnu Institute of Technology and a CGPA of 9.5, I'm passionate about technology and its potential to improve lives.
 
-💼 I specialize in Flutter development with a strong background in Android and Web development, as well as Machine Learning (ML) and Deep Learning (DL). My passion lies in leveraging technology to solve real-world problems.
+##🔧 Tech Stack & Skills:
 
-🚀 Committed to staying updated in Flutter development and Machine Learning, I believe in continuous learning to stay ahead in tech.
-
-🔍 Seeking opportunities to apply my skills and passion to innovative projects. Let's connect and explore ways to create meaningful impact together!  
+- Programming Languages: Python, Java, Dart, C, JavaScript
+- Frameworks: Flutter, React, Node.js, Express.js
+- AI & ML: Pytorch, Scikit-learn, Deep Learning, NLP
+- Databases: Firebase, Supabase
+- Tools: Git, GitHub, Figma, Canva
   
+🚀Projects:
+
+- Instagram Clone: Developed using Flutter and Firebase, featuring user authentication, photo sharing, real-time updates, and social interactions.
+- One-to-One Chat Application: Created with Flutter and Firebase for real-time messaging, featuring rich media support.
+- E-Learning Application: Built with HTML, CSS, and JavaScript to improve rural literacy in India.
+- AI-Driven Supply Chain Management App (In Progress): Aimed at reducing wastage with AI algorithms and smart contracts.
+📜 Publications & Certifications:
+
+Published a research paper on e-learning solutions for geographical disparities in education.
+Certifications from Google, IBM, AWS, RINEX, and more in Android development, Flutter, Deep Learning, and Python.
+🌐 Professional Experience:
+
+- AWS AI-ML Virtual Internship: Enhanced proficiency in AI & ML through hands-on labs and tutorials.
+- Android Developer Internship: Learned Kotlin and developed various small projects, honing skills in Android Studio.
+💼 Soft Skills: Research, critical thinking, problem-solving, and teamwork.
+
+🎯 Driven by a dedication to continuous learning and a love for problem-solving, I thrive on cross-functional team collaborations to drive project success. Let's connect or check out my projects to see how we can work together!
 
 <br/>  
 
