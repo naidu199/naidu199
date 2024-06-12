@@ -31,15 +31,7 @@
 
 
 ### Glad to see you here!  
-👋 Hi, I'm Korrapati Thirumala Narasimha Naidu from Bhimavaram, AP. With a B.Tech in Computer Science (Honors in AI) from Vishnu Institute of Technology and a CGPA of 9.5, I'm passionate about technology and its potential to improve lives.
-
-## 🔧 Tech Stack & Skills:
-
-- **Programming Languages:** Python, Java, Dart, C, JavaScript
-- **Frameworks:** Flutter, React, Node.js, Express.js
-- **AI & ML:** Pytorch, Scikit-learn, Deep Learning, NLP
-- **Databases:** Firebase, Supabase
-- **Tools:** Git, GitHub, Figma, Canva
+👋 Hi, I'm Korrapati Thirumala Narasimha Naidu from Bhimavaram, AP. With a B.Tech in Computer Science (Honors in AI) from Vishnu Institute of Technology, I'm passionate about technology and its potential to improve lives.
   
 ## 🚀 Projects:
 
@@ -52,18 +44,6 @@
 
 - Published a research paper on e-learning solutions for geographical disparities in education.
 - Certifications from Google, IBM, AWS, RINEX, and more in Android development, Flutter, Deep Learning, and Python.
-
-## 🌐 Professional Experience:
-
-- **AWS AI-ML Virtual Internship:** Enhanced proficiency in AI & ML through hands-on labs and tutorials.
-- **Android Developer Internship:** Learned Kotlin and developed various small projects, honing skills in Android Studio.
-
-## 💼 Soft Skills:
-
-- Research
-- Critical thinking
-- Problem-solving
-- Teamwork
 
 🎯 Driven by a dedication to continuous learning and a love for problem-solving, I thrive on cross-functional team collaborations to drive project success. Let's connect or check out my projects to see how we can work together!
 
@@ -105,7 +85,7 @@
   <a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="60" /></a> 
   <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="60" /></a>  
 </div>  
-
+<br>
 <div align="center">  
   <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="60" /></a>  
   <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="60" /></a>   
@@ -115,7 +95,10 @@
   <a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/pandas.svg" alt="Pandas" height="60" /></a>  
   <a href="https://scikit-learn.org/" target="_blank"><img style="margin: 10px" src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg" alt="scikit-learn" height="60" /></a>
 <a href="https://www.seaborn.pydata.org/" target="_blank"><img style="margin: 10px" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" height="60" /></a>
-                                                   
+   <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="60" /></a>
+ <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="60"/> </a>
+ <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb"  height="60"/> </a>   
+  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" height="50"/> </a>
   </div>
 
 <br/>  
