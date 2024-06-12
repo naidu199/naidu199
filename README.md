@@ -33,29 +33,37 @@
 ### Glad to see you here!  
 👋 Hi, I'm Korrapati Thirumala Narasimha Naidu from Bhimavaram, AP. With a B.Tech in Computer Science (Honors in AI) from Vishnu Institute of Technology and a CGPA of 9.5, I'm passionate about technology and its potential to improve lives.
 
-##🔧 Tech Stack & Skills:
+## 🔧 Tech Stack & Skills:
 
-- Programming Languages: Python, Java, Dart, C, JavaScript
-- Frameworks: Flutter, React, Node.js, Express.js
-- AI & ML: Pytorch, Scikit-learn, Deep Learning, NLP
-- Databases: Firebase, Supabase
-- Tools: Git, GitHub, Figma, Canva
+- **Programming Languages:** Python, Java, Dart, C, JavaScript
+- **Frameworks:** Flutter, React, Node.js, Express.js
+- **AI & ML:** Pytorch, Scikit-learn, Deep Learning, NLP
+- **Databases:** Firebase, Supabase
+- **Tools:** Git, GitHub, Figma, Canva
   
-🚀Projects:
+## 🚀 Projects:
 
-- Instagram Clone: Developed using Flutter and Firebase, featuring user authentication, photo sharing, real-time updates, and social interactions.
-- One-to-One Chat Application: Created with Flutter and Firebase for real-time messaging, featuring rich media support.
-- E-Learning Application: Built with HTML, CSS, and JavaScript to improve rural literacy in India.
-- AI-Driven Supply Chain Management App (In Progress): Aimed at reducing wastage with AI algorithms and smart contracts.
-📜 Publications & Certifications:
+- **Instagram Clone:** Developed using Flutter and Firebase, featuring user authentication, photo sharing, real-time updates, and social interactions.
+- **One-to-One Chat Application:** Created with Flutter and Firebase for real-time messaging, featuring rich media support.
+- **E-Learning Application:** Built with HTML, CSS, and JavaScript to improve rural literacy in India.
+- **AI-Driven Supply Chain Management App (In Progress):** Aimed at reducing wastage with AI algorithms and smart contracts.
 
-Published a research paper on e-learning solutions for geographical disparities in education.
-Certifications from Google, IBM, AWS, RINEX, and more in Android development, Flutter, Deep Learning, and Python.
-🌐 Professional Experience:
+## 📜 Publications & Certifications:
 
-- AWS AI-ML Virtual Internship: Enhanced proficiency in AI & ML through hands-on labs and tutorials.
-- Android Developer Internship: Learned Kotlin and developed various small projects, honing skills in Android Studio.
-💼 Soft Skills: Research, critical thinking, problem-solving, and teamwork.
+- Published a research paper on e-learning solutions for geographical disparities in education.
+- Certifications from Google, IBM, AWS, RINEX, and more in Android development, Flutter, Deep Learning, and Python.
+
+## 🌐 Professional Experience:
+
+- **AWS AI-ML Virtual Internship:** Enhanced proficiency in AI & ML through hands-on labs and tutorials.
+- **Android Developer Internship:** Learned Kotlin and developed various small projects, honing skills in Android Studio.
+
+## 💼 Soft Skills:
+
+- Research
+- Critical thinking
+- Problem-solving
+- Teamwork
 
 🎯 Driven by a dedication to continuous learning and a love for problem-solving, I thrive on cross-functional team collaborations to drive project success. Let's connect or check out my projects to see how we can work together!
 
