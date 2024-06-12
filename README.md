@@ -95,10 +95,10 @@
   <a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/pandas.svg" alt="Pandas" height="60" /></a>  
   <a href="https://scikit-learn.org/" target="_blank"><img style="margin: 10px" src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg" alt="scikit-learn" height="60" /></a>
 <a href="https://www.seaborn.pydata.org/" target="_blank"><img style="margin: 10px" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" height="60" /></a>
-   <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="60" /></a>
- <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="60"/> </a>
- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb"  height="60"/> </a>   
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" height="50"/> </a>
+<!--    <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://github.com/naidu199/naidu199/assets/141550407/e7ffb86f-9243-4e6a-8239-645bbdfb3294" height="60" /></a> -->
+ <a href="https://postman.com" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="60"/> </a>
+ <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb"  height="60"/> </a>   
+  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" height="50"/> </a>
   </div>
 
 <br/>  
@@ -127,6 +127,7 @@
   
 
 <br/>  
+
 
 
 <br />
