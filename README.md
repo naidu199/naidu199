@@ -31,7 +31,7 @@
 
 
 ### Glad to see you here!  
-👋 Hi, I'm Korrapati Thirumala Narasimha Naidu from Bhimavaram, AP. With a B.Tech in Computer Science (Honors in AI) from Vishnu Institute of Technology, I'm passionate about technology and its potential to improve lives.
+👋 Hi, I'm Korrapati Thirumala Narasimha Naidu from Bhimavaram, AP. With a B.Tech in Computer Science (Honors in AI & ML) from Vishnu Institute of Technology, I'm passionate about technology and its potential to improve lives.
   
 ## 🚀 Projects:
 
