@@ -36,6 +36,7 @@
 - **One-to-One Chat Application:** Created with Flutter and Firebase for real-time messaging, featuring rich media support.
 - **E-Learning Application:** Built with HTML, CSS, and JavaScript to improve rural literacy in India.
 - **AI-Driven Supply Chain Management App (In Progress):** Aimed at reducing wastage with AI algorithms and smart contracts.
+- **HelperHive :** Connects you with trusted service professionals for all your home maintenance needs, making life easier.
 
 ## 📜 Publications & Certifications:
 
