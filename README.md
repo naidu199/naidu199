@@ -32,11 +32,12 @@
   
 ## 🚀 Projects:
 
+- **AI-Driven Supply Chain Management App (In Progress):** Aimed at reducing wastage with AI algorithms and smart contracts.
+- **HelperHive :** Connects you with trusted service professionals for all your home maintenance needs, making life easier.
 - **Instagram Clone:** Developed using Flutter and Firebase, featuring user authentication, photo sharing, real-time updates, and social interactions.
 - **One-to-One Chat Application:** Created with Flutter and Firebase for real-time messaging, featuring rich media support.
 - **E-Learning Application:** Built with HTML, CSS, and JavaScript to improve rural literacy in India.
-- **AI-Driven Supply Chain Management App (In Progress):** Aimed at reducing wastage with AI algorithms and smart contracts.
-- **HelperHive :** Connects you with trusted service professionals for all your home maintenance needs, making life easier.
+
 
 ## 📜 Publications & Certifications:
 
