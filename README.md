@@ -37,8 +37,7 @@
 - **Instagram Clone:** Developed using Flutter and Firebase, featuring user authentication, photo sharing, real-time updates, and social interactions.
 - **One-to-One Chat Application:** Created with Flutter and Firebase for real-time messaging, featuring rich media support.
 - **E-Learning Application:** Built with HTML, CSS, and JavaScript to improve rural literacy in India.
-
-
+  
 ## 📜 Publications & Certifications:
 
 - Published a research paper on e-learning solutions for geographical disparities in education.
