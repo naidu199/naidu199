@@ -121,7 +121,7 @@
 </table>
 
 
-  
+  ![Visitor Count](https://profile-counter.glitch.me/{naidu199}/count.svg)
 
 <br/>  
 
