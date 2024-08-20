@@ -123,6 +123,8 @@
 
   ![Visitor Count](https://profile-counter.glitch.me/{naidu199}/count.svg)
 
+  ![](https://komarev.com/ghpvc/?username=naidu199)
+
 <br/>  
 
 
