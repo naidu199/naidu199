@@ -123,7 +123,7 @@
 
  
 
-  ![](https://komarev.com/ghpvc/?username=naidu199)
+  ![](https://komarev.com/ghpvc/?username=naidu199&abbreviated=true)
 
 <br/>  
 
