@@ -47,13 +47,14 @@
 
 
 <br/>  
-## About   
+
+## About  
+
 - 🔭 I’m currently working on [brillschain](https://github.com/brillschain)  
   
-
 - 👀 I’m interested in learning new technologies
 
- - 💞️ I’m looking to collaborate on Research and Development  
+- 💞️ I’m looking to collaborate on Research and Development  
   
 - ❓ Ask me about anything related to flutter, machine learning and related technologies
 
