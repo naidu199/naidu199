@@ -23,10 +23,8 @@
 </a>
 <a href="https://auth.geeksforgeeks.org/user/narasimhankbj3" target="_blank">
   <img src="https://img.shields.io/badge/geeksforgeeks-%2300C853.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="geeksforgeeks" style="margin-bottom: 5px;" />
-</a>
-  
+</a>  
 <br/>
-
 ### Glad to see you here!  
 👋 Hi, I'm Korrapati Thirumala Narasimha Naidu from Bhimavaram, AP. With a B.Tech in Computer Science (Honors in AI & ML) from Vishnu Institute of Technology, I'm passionate about technology and its potential to improve lives.
   
