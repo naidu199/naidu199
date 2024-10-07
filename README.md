@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/geeksforgeeks-%2300C853.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="geeksforgeeks" style="margin-bottom: 5px;" />
 </a>  
 <br/>
-## Glad to see you here!  
+<h4>Glad to see you here!</h4>  <br>
 👋 Hi, I'm Korrapati Thirumala Narasimha Naidu from Bhimavaram, AP. With a B.Tech in Computer Science (Honors in AI & ML) from Vishnu Institute of Technology, I'm passionate about technology and its potential to improve lives.
   
 ## 🚀 Projects:
