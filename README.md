@@ -114,7 +114,7 @@
   </tr>
   <tr>
     <td colspan="2" style="text-align: center; padding: 10px;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=naidu199&hide_border=true" style="height: 200px;" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=naidu199&hide_border=true&theme=dark" style="height: 200px;" />
     </td>
   </tr>
 </table>
