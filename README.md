@@ -8,7 +8,7 @@
 <a href="https://linkedin.com/in/naidu199" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
 </a>
-<a href="https://leetcode.com/naidu199" target="_blank">
+<a href="[https://leetcode.com/naidu199](https://www.linkedin.com/in/narasimhanaidukorrapati/)" target="_blank">
   <img src="https://img.shields.io/badge/leetcode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white" alt="leetcode" style="margin-bottom: 5px;" />
 </a>
 <a href="https://stackoverflow.com/users/25124707" target="_blank">
