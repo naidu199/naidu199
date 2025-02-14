@@ -30,7 +30,7 @@
 <br/>
 <h4>Glad to see you here!</h4>
 
-👋 Hi, I'm Korrapati Thirumala Narasimha Naidu from Bhimavaram, AP. Currently pursuing B.Tech in Computer Science (Honors in AI & ML) at Vishnu Institute of Technology with a CGPA of 9.4, I'm passionate about technology and its potential to improve lives.
+👋 Hi, I'm Korrapati Thirumala Narasimha Naidu from Bhimavaram, AP. Currently pursuing B.Tech in Computer Science (Honors in AI & ML) at Vishnu Institute of Technology, I'm passionate about technology and its potential to improve lives.
 
 ## 🚀 Projects:
 
@@ -41,33 +41,6 @@
 - **Instagram Clone:** Cross-platform social media app with core Instagram features.
 - **E-Learning Application:** Web app designed to enhance rural literacy through remote learning.
 
-## 📜 Publications & Certifications:
-
-- Published research on enhancing supply chain efficiency in Sustainability Journal
-- Published paper on addressing geographical disparities in education at EAI IC4S 2024
-- Certifications from Deep Learning (NPTEL), Google, IBM, AWS, RINEX, and more
-
-🎯 Driven by a dedication to continuous learning and a love for problem-solving, I thrive on cross-functional team collaborations to drive project success. Let's connect or check out my projects to see how we can work together!
-
-<br/>  
-
-## About  
-
-- 🔭 I'm currently working on [brillschain](https://github.com/brillschain)  
-  
-- 👀 I'm interested in learning new technologies
-
-- 💞️ I'm looking to collaborate on Research and Development  
-  
-- ❓ Ask me about anything related to flutter, machine learning and related technologies
-
-- 👨‍💻 All of my projects are available at [https://github.com/naidu199](https://github.com/naidu199)
-
-- 📫 How to reach me <br>
-      **LinkedIn:** **https://www.linkedin.com/in/narasimhanaidukorrapati/** <br>
-      **Email:** **narasimhanaidu.korrapati@gmail.com**
-
-<br/>  
 
 ## Languages and Tools  
 <div align="center">  
@@ -98,6 +71,37 @@
 </div>
 
 <br/>  
+
+
+
+## 📜 Publications & Certifications:
+
+- Published research on enhancing supply chain efficiency in Sustainability Journal
+- Published paper on addressing geographical disparities in education at EAI IC4S 2024
+- Certifications from Deep Learning (NPTEL), Google, IBM, AWS, RINEX, and more
+
+🎯 Driven by a dedication to continuous learning and a love for problem-solving, I thrive on cross-functional team collaborations to drive project success. Let's connect or check out my projects to see how we can work together!
+
+<br/>  
+
+## About  
+
+- 🔭 I'm currently working on [brillschain](https://github.com/brillschain)  
+  
+- 👀 I'm interested in learning new technologies
+
+- 💞️ I'm looking to collaborate on Research and Development  
+  
+- ❓ Ask me about anything related to flutter, machine learning and related technologies
+
+- 👨‍💻 All of my projects are available at [https://github.com/naidu199](https://github.com/naidu199)
+
+- 📫 How to reach me <br>
+      **LinkedIn:** **https://www.linkedin.com/in/narasimhanaidukorrapati/** <br>
+      **Email:** **narasimhanaidu.korrapati@gmail.com**
+
+<br/>  
+
 
 <div align="center">
   
