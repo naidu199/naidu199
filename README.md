@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Korrapati Thirumala Narasimha Naidu</h1>
 
-
 <a href="https://github.com/naidu199" target="_blank">
   <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
 </a>
@@ -27,44 +26,46 @@
 <a href="https://auth.geeksforgeeks.org/user/narasimhankbj3" target="_blank">
   <img src="https://img.shields.io/badge/geeksforgeeks-%2300C853.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="geeksforgeeks" style="margin-bottom: 5px;" />
 </a>  
+
 <br/>
 <h4>Glad to see you here!</h4>
-👋 Hi, I'm Korrapati Thirumala Narasimha Naidu from Bhimavaram, AP. With a B.Tech in Computer Science (Honors in AI & ML) from Vishnu Institute of Technology, I'm passionate about technology and its potential to improve lives.
-  
+
+👋 Hi, I'm Korrapati Thirumala Narasimha Naidu from Bhimavaram, AP. Currently pursuing B.Tech in Computer Science (Honors in AI & ML) at Vishnu Institute of Technology with a CGPA of 9.4, I'm passionate about technology and its potential to improve lives.
+
 ## 🚀 Projects:
 
-- **AI-Driven Supply Chain Management App (In Progress):** Aimed at reducing wastage with AI algorithms and smart contracts.
-- **HelperHive (In Progress):** Connects you with trusted service professionals for all your home maintenance needs, making life easier.
-- **Instagram Clone:** Developed using Flutter and Firebase, featuring user authentication, photo sharing updates, and social interactions.
-- **One-to-One Chat Application:** Created with Flutter and Firebase for real-time messaging, featuring rich media support.
-- **E-Learning Application:** Built with HTML, CSS, and JavaScript to improve rural literacy in India.
-  
+- **Supply Chain Application:** Cross-platform app using AI algorithms and smart contracts to minimize supply chain wastage.
+- **Beach Suitability App:** Application providing real-time beach safety information with weather updates and hazard alerts.
+- **Crop Yield Prediction App:** ML-powered app for predicting crop yields and providing agricultural suggestions.
+- **Service Finder Platform:** Platform connecting users with service professionals for various needs.
+- **Instagram Clone:** Cross-platform social media app with core Instagram features.
+- **E-Learning Application:** Web app designed to enhance rural literacy through remote learning.
+
 ## 📜 Publications & Certifications:
 
-- Published a research paper on e-learning solutions for geographical disparities in education.
-- Certifications from Google, IBM, AWS, RINEX, and more in Android development, Flutter, Deep Learning, and Python.
+- Published research on enhancing supply chain efficiency in Sustainability Journal
+- Published paper on addressing geographical disparities in education at EAI IC4S 2024
+- Certifications from Deep Learning (NPTEL), Google, IBM, AWS, RINEX, and more
 
 🎯 Driven by a dedication to continuous learning and a love for problem-solving, I thrive on cross-functional team collaborations to drive project success. Let's connect or check out my projects to see how we can work together!
-
 
 <br/>  
 
 ## About  
 
-- 🔭 I’m currently working on [brillschain](https://github.com/brillschain)  
+- 🔭 I'm currently working on [brillschain](https://github.com/brillschain)  
   
-- 👀 I’m interested in learning new technologies
+- 👀 I'm interested in learning new technologies
 
-- 💞️ I’m looking to collaborate on Research and Development  
+- 💞️ I'm looking to collaborate on Research and Development  
   
 - ❓ Ask me about anything related to flutter, machine learning and related technologies
 
--  👨‍💻 All of my projects are available at [https://github.com/naidu199](https://github.com/naidu199)
+- 👨‍💻 All of my projects are available at [https://github.com/naidu199](https://github.com/naidu199)
 
 - 📫 How to reach me <br>
       **LinkedIn:** **https://www.linkedin.com/in/narasimhanaidukorrapati/** <br>
-      **Email:** **narasimhanaidu1909@gmail.com**
-       
+      **Email:** **narasimhanaidu.korrapati@gmail.com**
 
 <br/>  
 
@@ -86,53 +87,46 @@
   <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="60" /></a>  
   <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="60" /></a>   
   <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="60" /></a>  
-  <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="60"
-<a href="https://numpy.org/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/354127/numpy.svg" alt="NumPy" height="60" /></a>  
+  <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="60" /></a>
+  <a href="https://numpy.org/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/354127/numpy.svg" alt="NumPy" height="60" /></a>  
   <a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/pandas.svg" alt="Pandas" height="60" /></a>  
   <a href="https://scikit-learn.org/" target="_blank"><img style="margin: 10px" src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg" alt="scikit-learn" height="60" /></a>
-<a href="https://www.seaborn.pydata.org/" target="_blank"><img style="margin: 10px" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" height="60" /></a>
-<!--    <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://github.com/naidu199/naidu199/assets/141550407/e7ffb86f-9243-4e6a-8239-645bbdfb3294" height="60" /></a> -->
- <a href="https://postman.com" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="60"/> </a>
- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb"  height="60"/> </a>   
+  <a href="https://www.seaborn.pydata.org/" target="_blank"><img style="margin: 10px" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" height="60" /></a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="60"/> </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb"  height="60"/> </a>   
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" height="50"/> </a>
-  </div>
-
+</div>
 
 <br/>  
 
+<div align="center">
+  
+  # 🚀 My GitHub Journey
 
-## Github Stats  
+  ### 🌟 Overview
+  <p align="center">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=naidu199&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naidu199&hide_border=true&theme=react&layout=compact&bg_color=0D1117" alt="Top Languages" />
 
-<table style="width: 100%; border-collapse: collapse;">
-  <tr>
-    <td style="text-align: center; padding: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=naidu199&show_icons=true&count_private=true&hide_border=true" style="height: 200px;" />
-    </td>
-    <td style="text-align: center; padding: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naidu199&hide_border=true&layout=compact" style="height: 200px;" />
-    </td>
-    
-  </tr>
-  <tr>
-    <td colspan="2" style="text-align: center; padding: 10px;">
-      <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=naidu199&count_private=true&theme=react&border_radius=10" style="height: 200px;" />
-    </td>
-  </tr>
-   <tr>
-    <td colspan="2" style="text-align: center; padding: 10px;">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=naidu199&theme=react-dark&hide_border=true&hide_title=false&area=true" />
-    </td>
-  </tr>
-</table>
-
+   
+  </p>
 
  
+  <p align="center">
+     <img width="86%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=naidu199&count_private=true&theme=react&border_radius=10&bg_color=0D1117" alt="Streak Stats" />
+      </p> 
 
-  ![](https://komarev.com/ghpvc/?username=naidu199&abbreviated=true)
+  ### 📈 Contribution Graph
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naidu199&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Contribution%20Timeline&bg_color=0D1117" width="95%" alt="Activity Graph" />
 
-<br/>  
+  <br/>
+  
+  <b>Note:</b> These stats represent my coding journey and public contributions. Always striving to learn and grow! 🌱
+</div>
 
+![](https://komarev.com/ghpvc/?username=naidu199&abbreviated=true)
 
+<br/>
 
 <br />
 
