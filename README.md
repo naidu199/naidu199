@@ -115,7 +115,12 @@
   </tr>
   <tr>
     <td colspan="2" style="text-align: center; padding: 10px;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=naidu199&hide_border=true&theme=dark" style="height: 200px;" />
+      <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=naidu199&count_private=true&theme=react&border_radius=10" style="height: 200px;" />
+    </td>
+  </tr>
+   <tr>
+    <td colspan="2" style="text-align: center; padding: 10px;">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=naidu199&theme=react-dark&hide_border=true&hide_title=false&area=true" />
     </td>
   </tr>
 </table>
