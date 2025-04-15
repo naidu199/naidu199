@@ -85,7 +85,7 @@
 
 ## About  
 
-- 🔭 I'm currently working on [brillschain](https://github.com/brillschain)  
+- 🔭 I'm currently working on [E-Cell VITB](https://github.com/E-Cell-VITB)  
   
 - 👀 I'm interested in learning new technologies
 
