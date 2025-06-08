@@ -18,9 +18,9 @@
 <a href="https://www.hackerrank.com/narasimhanaidu13" target="_blank">
   <img src="https://img.shields.io/badge/hackerrank-%232EC866.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" alt="hackerrank" style="margin-bottom: 5px;" />
 </a>
-<a href="https://dev.to/naidu199" target="_blank">
+<!-- <a href="https://dev.to/naidu199" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt="devto" style="margin-bottom: 5px;" />
-</a>
+</a> -->
 
 <a href="https://auth.geeksforgeeks.org/user/narasimhankbj3" target="_blank">
   <img src="https://img.shields.io/badge/geeksforgeeks-%2300C853.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="geeksforgeeks" style="margin-bottom: 5px;" />
