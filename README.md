@@ -115,7 +115,7 @@ Built a smart agri-solution forecasting crop yield with 93% accuracy using ML al
 - 📫 **Reach me:**
   - **LinkedIn:** https://www.linkedin.com/in/narasimhanaidukorrapati/
   - **Email:** narasimhanaidu.korrapati@gmail.com
-  - **Portfolio:** [View My Work](https://github.com/naidu199)
+  - **Portfolio:** [My Portfolio](https://naidu199.github.io/myPortfolio/)
 
 <br/>  
 
