@@ -31,21 +31,20 @@
 - Building production-ready AI agents with n8n
 - Tech Lead at Entrepreneurship Cell, leading 6-member technical team
 
-## 🏆 Featured Projects:
+## 🏆 Featured Projects
 
-### **🏅 Top 105 - Google Developer Hackathon 2025**
-- **Indian Cow Breed Revival Platform:** AI-powered breed identification system achieving 85% accuracy in disease prediction with geolocation-based farmer/veterinarian finder
-- **Tech Stack:** Flutter, Firebase, Gemini 2.0 Flash API, Google Maps API, Video Call SDK
+### 🏅 **Top 105 - Google Developer Hackathon 2025**  
+Developed an AI-powered platform for Indian cow breed identification (85% accuracy) with geo-based vet discovery.  
+**Tech Stack:** Flutter, Firebase, Gemini 2.0 Flash API, Google Maps, Video Call SDK  
 
-### **🌊 Beach Suitability App**
-- Real-time beach safety application for 50+ coastal locations across India
-- Integrated ML-based hazard prediction improving tourist safety by 40%
-- **Tech Stack:** Flutter, Firebase, INCOIS API, RoBERTa Sentiment Analysis
+### 🌊 **Beach Suitability App**  
+Real-time safety app with ML-based hazard alerts, boosting tourist safety by 40% across 50+ coastal areas.  
+**Tech Stack:** Flutter, Firebase, INCOIS API, RoBERTa Sentiment Analysis  
 
-### **🌾 Crop Yield Prediction App**
-- AI-driven agricultural app with 93% accuracy in crop yield forecasting
-- Built using Random Forest and XGBoost algorithms
-- **Tech Stack:** Flutter, Flask, Python, Random Forest, XGBoost, IoT
+### 🌾 **Crop Yield Prediction App**  
+Built a smart agri-solution forecasting crop yield with 93% accuracy using ML algorithms and IoT inputs.  
+**Tech Stack:** Flutter, Flask, Python, Random Forest, XGBoost, IoT  
+
 
 ### **💼 Professional Projects:**
 - **CHAUWK AI Resume Creator:** Gamified interface improving user engagement by 35%
