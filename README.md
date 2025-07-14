@@ -27,33 +27,10 @@
 👋 Hi, I'm Korrapati Thirumala Narasimha Naidu from Bhimavaram, AP. Currently pursuing B.Tech in Computer Science (Honors in AI & ML) at Vishnu Institute of Technology with CGPA 9.4/10.0. I'm a freelance developer passionate about building AI-powered solutions and mobile applications that make a real impact.
 
 🚀 **Currently Working:**
-- Freelance Flutter Developer & AI Automation Specialist
+- Freelance Flutter Developer & AI Automation 
 - Building production-ready AI agents with n8n
 - Tech Lead at Entrepreneurship Cell, leading 6-member technical team
 
-## 🏆 Featured Projects
-
-### 🏅 **Top 105 - Google Developer Hackathon 2025**  
-Developed an AI-powered platform for Indian cow breed identification (85% accuracy) with geo-based vet discovery.  
-**Tech Stack:** Flutter, Firebase, Gemini 2.0 Flash API, Google Maps, Video Call SDK  
-
-### 🌊 **Beach Suitability App**  
-Real-time safety app with ML-based hazard alerts, boosting tourist safety by 40% across 50+ coastal areas.  
-**Tech Stack:** Flutter, Firebase, INCOIS API, RoBERTa Sentiment Analysis  
-
-### 🌾 **Crop Yield Prediction App**  
-Built a smart agri-solution forecasting crop yield with 93% accuracy using ML algorithms and IoT inputs.  
-**Tech Stack:** Flutter, Flask, Python, Random Forest, XGBoost, IoT  
-
-
-### **💼 Professional Projects:**
-- **CHAUWK AI Resume Creator:** Gamified interface improving user engagement by 35%
-- **OG Hospitality POS System:** Handling 100+ daily orders with automated attendance tracking
-
-### **🔗 Other Notable Projects:**
-- **Supply Chain Efficiency Platform:** Smart contracts and AI algorithms to minimize wastage
-- **Service Finder Platform:** Connecting users with service professionals
-- **Instagram Clone:** Full-featured social media app with Flutter & Firebase
 
 ## Languages and Tools  
 <div align="center">  
@@ -82,21 +59,6 @@ Built a smart agri-solution forecasting crop yield with 93% accuracy using ML al
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb"  height="60"/> </a>   
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" height="50"/> </a>
 </div>
-
-<br/>  
-
-## 📜 Research & Publications:
-
-- **[Journal] Sustainability 2025:** "Enhancing Supply Chain Efficiency in India: A Sustainable Framework to Minimize Wastage Through Authentication and Contracts" - DOI: 10.3390/su17030808
-- **[Conference] EAI IC4S 2024:** "Addressing Geographical Disparities in Education: An Integrated E-Learning Approach for Empowering Students in Diverse Regions of India" - DOI: 10.1007/978-3-031-77081-4_9
-
-## 💼 Professional Experience:
-
-- **Full Stack Developer @ CHAUWK** (Oct 2024 - Mar 2025): AI-powered platform serving 1000+ users
-- **Flutter Developer @ OG Hospitality** (Jun 2024 - Sep 2024): Built POS and attendance systems
-- **Tech Lead @ E-Cell VITB**: Leading technical innovation initiatives
-
-🎯 **Mission:** Building AI-powered solutions that solve real-world problems while fostering innovation through research and development.
 
 <br/>  
 
@@ -144,6 +106,45 @@ Built a smart agri-solution forecasting crop yield with 93% accuracy using ML al
 
 <br/>
 
-<br />
+## 📜 Research & Publications:
+
+- **[Journal] Sustainability 2025:** "Enhancing Supply Chain Efficiency in India: A Sustainable Framework to Minimize Wastage Through Authentication and Contracts" - DOI: 10.3390/su17030808
+- **[Conference] EAI IC4S 2024:** "Addressing Geographical Disparities in Education: An Integrated E-Learning Approach for Empowering Students in Diverse Regions of India" - DOI: 10.1007/978-3-031-77081-4_9
+
+## 💼 Professional Experience:
+
+- **Full Stack Developer @ CHAUWK** (Oct 2024 - Mar 2025): AI-powered platform serving 1000+ users
+- **Flutter Developer @ OG Hospitality** (Jun 2024 - Sep 2024): Built POS and attendance systems
+- **Tech Lead @ E-Cell VITB**: Leading technical innovation initiatives
+
+🎯 **Mission:** Building AI-powered solutions that solve real-world problems while fostering innovation through research and development.
+
+<br/>  
+
+
+## 🏆 Featured Projects
+
+### 🏅 **Top 105 - Google Developer Hackathon 2025**  
+Developed an AI-powered platform for Indian cow breed identification (85% accuracy) with geo-based vet discovery.  
+**Tech Stack:** Flutter, Firebase, Gemini 2.0 Flash API, Google Maps, Video Call SDK  
+
+### 🌊 **Beach Suitability App**  
+Real-time safety app with ML-based hazard alerts, boosting tourist safety by 40% across 50+ coastal areas.  
+**Tech Stack:** Flutter, Firebase, INCOIS API, RoBERTa Sentiment Analysis  
+
+### 🌾 **Crop Yield Prediction App**  
+Built a smart agri-solution forecasting crop yield with 93% accuracy using ML algorithms and IoT inputs.  
+**Tech Stack:** Flutter, Flask, Python, Random Forest, XGBoost, IoT  
+
+
+### **💼 Professional Projects:**
+- **CHAUWK AI Resume Creator:** Gamified interface improving user engagement by 35%
+- **OG Hospitality POS System:** Handling 100+ daily orders with automated attendance tracking
+
+### **🔗 Other Notable Projects:**
+- **Supply Chain Efficiency Platform:** Smart contracts and AI algorithms to minimize wastage
+- **Service Finder Platform:** Connecting users with service professionals
+- **Instagram Clone:** Full-featured social media app with Flutter & Firebase
+
 
 ----
