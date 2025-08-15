@@ -26,6 +26,7 @@
 
 👋 Hi, I'm Korrapati Thirumala Narasimha Naidu from Bhimavaram, AP. Currently pursuing B.Tech in Computer Science (Honors in AI & ML) at Vishnu Institute of Technology with CGPA 9.29/10.0. I'm a freelance developer passionate about building AI-powered solutions and mobile applications that make a real impact.
 
+
 🚀 **Currently Working:**
 - Freelance Flutter Developer & AI Automation 
 - Building production-ready AI agents with n8n
