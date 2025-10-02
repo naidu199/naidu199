@@ -74,7 +74,7 @@
 
 ## About  
 
-- 🔭 I'm currently working on [AI Automation & Flutter Development](https://github.com/naidu199)  
+- 🔭 I'm currently working on [Quantum Computing, AI Automation & Flutter Development](https://github.com/naidu199)  
   
 - 🤖 I'm specializing in AI agents, n8n automation, and mobile app development
 
