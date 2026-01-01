@@ -95,10 +95,7 @@
   
   # 🚀 My GitHub Journey
 
-  <p align="center">
-    <img width="49%"  height=200px src="https://github-readme-stats.vercel.app/api?username=naidu199&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-    <img width="49%"  height=200px src="https://github-readme-stats.vercel.app/api/top-langs/?username=naidu199&hide_border=true&theme=react&layout=compact&bg_color=0D1117" alt="Top Languages" />
-  </p>
+  
 
   <p align="center">
      <img width="86%" height=250px src="https://github-readme-streak-stats-salesp07.vercel.app/?user=naidu199&count_private=true&theme=react&border_radius=10&bg_color=0D1117" alt="Streak Stats" />
