@@ -50,12 +50,11 @@
 │  Name     :  Korrapati Thirumala Narasimha Naidu                    │
 │  Location :  Bhimavaram, Andhra Pradesh, India                      │
 │  Degree   :  B.Tech CSE (Honors in AI & ML) · VIT Bhimavaram       │
-│  CGPA     :  9.29 / 10.0                      Batch : 2022–2026     │
+│  Batch    : 2022–2026  
 ├─────────────────────────────────────────────────────────────────────┤
 │  Role 1   :  Freelance Flutter & Full-Stack Developer               │
 │  Role 2   :  AI Agent & Automation Engineer (n8n)                   │
-│  Role 3   :  Tech Lead · Entrepreneurship Cell VITB                 │
-│  Role 4   :  Technical Lead · GDGoC VITB                            │
+│  Role 3   :  Technical Lead · GDGoC VITB                            │
 ├─────────────────────────────────────────────────────────────────────┤
 │  Papers   :  3  (1 Journal · 2 Conferences)                         │
 │  Apps     :  4  (Live on Google Play Store)                         │
