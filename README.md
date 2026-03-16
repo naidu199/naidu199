@@ -32,8 +32,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=naidu199&style=for-the-badge&color=4db8ff&label=PROFILE+VIEWS)
-
+![Profile Views](https://komarev.com/ghpvc/?username=naidu199&abbreviated=true&style=for-the-badge&color=4db8ff&label=PROFILE+VIEWS)
 </div>
 
 <br/>
