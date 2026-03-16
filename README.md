@@ -1,157 +1,228 @@
-<h1 align="center">Hi 👋, I'm Korrapati Thirumala Narasimha Naidu</h1>
-<a href="https://github.com/naidu199" target="_blank">
-  <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/narasimhanaidukorrapati/" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/narasimhanaidukorrapati/" target="_blank">
-  <img src="https://img.shields.io/badge/leetcode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white" alt="leetcode" style="margin-bottom: 5px;" />
-</a>
-<a href="https://stackoverflow.com/users/25124707" target="_blank">
-  <img src="https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" alt="stackoverflow" style="margin-bottom: 5px;" />
-</a>
-<a href="https://medium.com/@narasimhanaidukorrapati" target="_blank">
-  <img src="https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="medium" style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.hackerrank.com/narasimhanaidu13" target="_blank">
-  <img src="https://img.shields.io/badge/hackerrank-%232EC866.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" alt="hackerrank" style="margin-bottom: 5px;" />
-</a>
-<a href="https://auth.geeksforgeeks.org/user/narasimhankbj3" target="_blank">
-  <img src="https://img.shields.io/badge/geeksforgeeks-%2300C853.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="geeksforgeeks" style="margin-bottom: 5px;" />
-</a>  
+<div align="center">
+
+<!--  ╔══════════════════════════════════════════════════════════════╗  -->
+<!--  ║                        HEADER                               ║  -->
+<!--  ╚══════════════════════════════════════════════════════════════╝  -->
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0f3460,100:1a1a2e&height=280&section=header&text=Narasimha%20Naidu&fontSize=68&fontColor=ffffff&fontAlignY=45&desc=Flutter%20·%20Full%20Stack%20·%20AI%2FML%20·%20Quantum%20Computing&descSize=17&descColor=4db8ff&descAlignY=64&stroke=4db8ff&strokeWidth=1" width="100%" />
 
 <br/>
-<h4>Glad to see you here!</h4>
 
-👋 Hi, I'm Korrapati Thirumala Narasimha Naidu from Bhimavaram, AP. Currently pursuing B.Tech in Computer Science (Honors in AI & ML) at Vishnu Institute of Technology with CGPA 9.29/10.0. I'm a freelance developer passionate about building AI-powered solutions and mobile applications that make a real impact.
+<!-- Typing animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=800&color=4DB8FF&center=true&vCenter=true&width=560&lines=%E2%9D%AF+Freelance+Flutter+%26+Full-Stack+Developer;%E2%9D%AF+AI+Agent+%26+n8n+Automation+Engineer;%E2%9D%AF+Quantum+Computing+Researcher+%7C+IBM+Qiskit;%E2%9D%AF+3x+Published+%7C+IEEE+%C2%B7+EAI+%C2%B7+Sustainability;%E2%9D%AF+AQVH+2025+Hackathon+Winner" alt="typing" />
 
+<br/><br/>
 
-🚀 **Currently Working:**
-- Freelance Flutter Developer & AI Automation 
-- Building production-ready AI agents with n8n
-- Tech Lead at Entrepreneurship Cell, leading 6-member technical team
+<!-- Stats pills row -->
+<!-- ![](https://img.shields.io/badge/CGPA-9.29%2F10-4db8ff?style=flat-square&labelColor=0d1117) -->
+![](https://img.shields.io/badge/Apps%20on%20Play%20Store-4-4db8ff?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/Research%20Papers-3-4db8ff?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/Production%20Users-1000%2B-4db8ff?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/PyPI%20Package-SimhaCLI-4db8ff?style=flat-square&labelColor=0d1117)
 
+<br/><br/>
 
-## Languages and Tools  
-<div align="center">  
-  <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="60" /></a>  
-  <a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="60" /></a>  
-  <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="60" /></a>  
-  <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="60" /></a>  
-  <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="60" /></a>  
-  <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="60" /></a>  
-  <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="60" /></a>
-  <a href="https://www.supabase.io/" target="_blank"><img style="margin: 10px; filter: invert(100%);" src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="Supabase" height="60" /></a>
-  <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="60" /></a>
-  <a href="https://n8n.io/" target="_blank"><img style="margin: 10px" src="https://github.com/bestofjs/bestofjs/blob/master/apps/web/public/logos/n8n.dark.svg" alt="n8n" height="60" /></a>
-</div>  
-<br>
-<div align="center">  
-  <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="60" /></a>  
-  <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="60" /></a>   
-  <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="60" /></a>  
-  <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="60" /></a>
-  <a href="https://numpy.org/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/354127/numpy.svg" alt="NumPy" height="60" /></a>  
-  <a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/pandas.svg" alt="Pandas" height="60" /></a>  
-  <a href="https://scikit-learn.org/" target="_blank"><img style="margin: 10px" src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg" alt="scikit-learn" height="60" /></a>
-  <a href="https://www.seaborn.pydata.org/" target="_blank"><img style="margin: 10px" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" height="60" /></a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="60"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb"  height="60"/> </a>   
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" height="50"/> </a>
+<!-- Social badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/narasimhanaidukorrapati/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naidu199)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://naidu199.github.io/myPortfolio/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/naidu199/)
+[![Medium](https://img.shields.io/badge/Medium-ffffff?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@narasimhanaidukorrapati)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-00C853?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/narasimhankbj3/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:narasimhanaidu.korrapati@gmail.com)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=naidu199&style=for-the-badge&color=4db8ff&label=PROFILE+VIEWS)
+
 </div>
 
-<br/>  
+<br/>
 
-<div align="center">  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a>  
-<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
-</div>
+---
 
-## About  
+## `❯ whoami`
 
-- 🔭 I'm currently working on [Quantum Computing, AI Automation & Flutter Development](https://github.com/naidu199)  
-  
-- 🤖 I'm specializing in AI agents, n8n automation, and mobile app development
+```
+> narasimha --profile
 
-- 💞️ I'm looking to collaborate on AI/ML research, Flutter projects, and innovative tech solutions
-  
-- ❓ Ask me about Flutter, AI/ML, automation, research, and full-stack development
+┌─────────────────────────────────────────────────────────────────────┐
+│  Name     :  Korrapati Thirumala Narasimha Naidu                    │
+│  Location :  Bhimavaram, Andhra Pradesh, India                      │
+│  Degree   :  B.Tech CSE (Honors in AI & ML) · VIT Bhimavaram       │
+│  CGPA     :  9.29 / 10.0                      Batch : 2022–2026     │
+├─────────────────────────────────────────────────────────────────────┤
+│  Role 1   :  Freelance Flutter & Full-Stack Developer               │
+│  Role 2   :  AI Agent & Automation Engineer (n8n)                   │
+│  Role 3   :  Tech Lead · Entrepreneurship Cell VITB                 │
+│  Role 4   :  Technical Lead · GDGoC VITB                            │
+├─────────────────────────────────────────────────────────────────────┤
+│  Papers   :  3  (1 Journal · 2 Conferences)                         │
+│  Apps     :  4  (Live on Google Play Store)                         │
+│  Wins     :  AQVH 2025 Winner · Top 105 Google Dev Hackathon 2025  │
+└─────────────────────────────────────────────────────────────────────┘
 
-- 🎯 Available for freelance projects in mobile development and AI automation
+✦ Currently exploring: Quantum Computing · AI Agents · Flutter
+```
 
-- 📫 **Reach me:**
-  - **LinkedIn:** https://www.linkedin.com/in/narasimhanaidukorrapati/
-  - **Email:** narasimhanaidu.korrapati@gmail.com
-  - **Portfolio:** [My Portfolio](https://naidu199.github.io/myPortfolio/)
+---
 
-<br/>  
+## `❯ tech-stack --list-all`
+
+```
+> Loading modules...   ████████████████████ 100%
+```
 
 <div align="center">
-  
-  # 🚀 My GitHub Journey
 
-  
+**`── Mobile & Frontend ──`**
 
-  <p align="center">
-     <img width="86%" height=250px src="https://github-readme-streak-stats-salesp07.vercel.app/?user=naidu199&count_private=true&theme=react&border_radius=10&bg_color=0D1117" alt="Streak Stats" />
-  </p> 
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-  ### 📈 Contribution Graph
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naidu199&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Contribution%20Timeline&bg_color=0D1117" width="95%" alt="Activity Graph" />
+**`── Backend & APIs ──`**
 
-  <br/>
-  
-  ### These stats represent my coding journey and public contributions. Always striving to learn and grow! 🌱
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**`── AI · ML · Quantum ──`**
+
+![IBM Qiskit](https://img.shields.io/badge/IBM%20Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+**`── Cloud & Databases ──`**
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+**`── Tools ──`**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
 </div>
 
-![](https://komarev.com/ghpvc/?username=naidu199&abbreviated=true)
+---
+
+## `❯ experience --verbose`
+
+```
+> Fetching work history...
+```
+
+**`[1/2]`** 🏢 **Full Stack Developer — CHAUWK** `Oct 2024 – Mar 2025 · Remote`
+> *AI-powered Blue-Collar Workforce Platform*
+
+- ✦ Architected AI resume creator with gamified UI → user engagement **+35%**
+- ✦ Designed multi-language AI chatbot with a 3-member AI team
+- ✦ Optimized system performance by **20%** via efficient state management
+- ✦ Deployed to Google Play Store → **1000+ active users**
+
+---
+
+**`[2/2]`** 🏨 **Flutter Developer — OG Hospitality (OHSM)** `Jun 2024 – Sep 2024 · Remote`
+> *Smart PMS for Indian Hoteliers*
+
+- ✦ Automated attendance tracking — manual reporting time reduced by **60%**
+- ✦ Built POS system processing **100+ daily orders**
+- ✦ Designed responsive UI for **40%** of the application
+- ✦ Implemented RESTful API integration for real-time data sync
+
+---
+
+## `❯ freelance --deployed`
+
+```
+> Scanning production apps...   ████████████████ 100%   4 apps found
+```
+
+| Project | Stack | Links |
+|---------|-------|-------|
+| 🏥 **DrStethos** — Doctor–Hospital Hiring Platform `Nov 2025–Mar 2026` | Flutter · React.js · Firebase · FCM | [![Play Store](https://img.shields.io/badge/Play_Store-black?style=flat&logo=google-play)](https://play.google.com/store/apps/details?id=com.drstethos.app) [![Web](https://img.shields.io/badge/Website-4285F4?style=flat&logo=googlechrome&logoColor=white)](https://drstethos.com/) |
+| 💬 **ChatAway+** — One-to-One Chat App `Sep 2025–Jan 2026` | Node.js · TypeScript · AWS · MySQL | [![Play Store](https://img.shields.io/badge/Play_Store-black?style=flat&logo=google-play)](https://play.google.com/store/apps/details?id=com.chatawayplus.app) |
+| 🌸 **PELVIEaSe** — FemTech Pelvic Wellness `Jun 2025–Aug 2025` | Flutter Web · Firebase · Razorpay | [![Web](https://img.shields.io/badge/Website-4285F4?style=flat&logo=googlechrome&logoColor=white)](https://pelviease.com/) |
+| 🦐 **Spark Aquanix** — Aquaculture E-Commerce `Mar 2025–May 2025` | Flutter · Firebase · Razorpay · Figma | [![Play Store](https://img.shields.io/badge/Play_Store-black?style=flat&logo=google-play)](https://play.google.com/store/apps/details?id=com.sparkaquanix.app) |
+
+---
+
+## `❯ publications --all`
+
+```
+> Found 3 records   [J:1  C:2]
+```
+
+| ID | Venue | Title | DOI |
+|----|-------|-------|-----|
+| **J.1** | 📰 *Sustainability 2025* | Enhancing Supply Chain Efficiency in India: A Sustainable Framework to Minimize Wastage Through Authentication and Contracts | [10.3390/su17030808](https://www.mdpi.com/3144382) |
+| **C.1** | 🎤 *EAI IC4S 2024* | Addressing Geographical Disparities in Education: An Integrated E-Learning Approach for Empowering Students in Diverse Regions of India | [10.1007/978-3-031-77081-4_9](https://doi.org/10.1007/978-3-031-77081-4_9) |
+| **C.2** | 🎤 *IEEE Xplore* | API-Driven AI Framework for Real-Time Beach Safety and Coastal Hazard Prediction | [IEEE](https://ieeexplore.ieee.org/abstract/document/11368241) |
+
+---
+
+## `❯ git log --stats`
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=naidu199&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=4db8ff&icon_color=4db8ff&text_color=a8c7fa" />
+<img width="49%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=naidu199&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&ring=4db8ff&fire=4285F4&currStreakLabel=4db8ff&sideLabels=a8c7fa" />
+
+<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naidu199&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4db8ff&text_color=a8c7fa&count_private=true" />
 
 <br/>
 
-## 📜 Research & Publications:
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=naidu199&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Timeline&bg_color=0d1117&color=4db8ff&line=4285F4&point=a8c7fa" width="94%" />
 
-- **[Journal] Sustainability 2025:** "Enhancing Supply Chain Efficiency in India: A Sustainable Framework to Minimize Wastage Through Authentication and Contracts" - DOI: 10.3390/su17030808
-- **[Conference] EAI IC4S 2024:** "Addressing Geographical Disparities in Education: An Integrated E-Learning Approach for Empowering Students in Diverse Regions of India" - DOI: 10.1007/978-3-031-77081-4_9
+</div>
 
-## 💼 Professional Experience:
+---
 
-- **Full Stack Developer @ CHAUWK** (Oct 2024 - Mar 2025): AI-powered platform serving 1000+ users
-- **Flutter Developer @ OG Hospitality** (Jun 2024 - Sep 2024): Built POS and attendance systems
-- **Tech Lead @ E-Cell VITB**: Leading technical innovation initiatives
+## `❯ achievements --all`
 
-🎯 **Mission:** Building AI-powered solutions that solve real-world problems while fostering innovation through research and development.
+```
+> narasimha --highlight
 
-<br/>  
+  🏆  AQVH 2025 Quantum Hackathon         →  Winner
+  🥈  Google Developer Hackathon 2025     →  Top 105 / Nationwide
+  📰  Research Publications               →  3  (IEEE · EAI · Sustainability)
+  📱  Apps on Google Play Store           →  4  (Live & Active)
+  👥  Production Users                    →  1000+
+  📦  PyPI Package                        →  SimhaCLI  (Published)
+  🎓  B.Tech CGPA                         →  9.29 / 10.0
+  🏫  Leadership Roles                    →  Tech Lead @ GDGoC + E-Cell VITB
+```
 
+---
 
-## 🏆 Featured Projects
+<div align="center">
 
-### 🏅 **Top 105 - Google Developer Hackathon 2025**  
-Developed an AI-powered platform for Indian cow breed identification (85% accuracy) with geo-based vet discovery.  
-**Tech Stack:** Flutter, Firebase, Gemini 2.0 Flash API, Google Maps, Video Call SDK  
+## `❯ connect --open-to-work`
 
-### 🌊 **Beach Suitability App**  
-Real-time safety app with ML-based hazard alerts, boosting tourist safety by 40% across 50+ coastal areas.  
-**Tech Stack:** Flutter, Firebase, INCOIS API, RoBERTa Sentiment Analysis  
+```
+✦  Open to freelance projects in Flutter & AI Automation
+✦  Looking to collaborate on AI/ML research and Quantum Computing
+✦  Available for full-time roles in 2026
+```
 
-### 🌾 **Crop Yield Prediction App**  
-Built a smart agri-solution forecasting crop yield with 93% accuracy using ML algorithms and IoT inputs.  
-**Tech Stack:** Flutter, Flask, Python, Random Forest, XGBoost, IoT  
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/narasimhanaidukorrapati/)
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:narasimhanaidu.korrapati@gmail.com)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://naidu199.github.io/myPortfolio/)
 
+<br/>
 
-### **💼 Professional Projects:**
-- **CHAUWK AI Resume Creator:** Gamified interface improving user engagement by 35%
-- **OG Hospitality POS System:** Handling 100+ daily orders with automated attendance tracking
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:0d1117&height=120&section=footer" width="100%"/>
 
-### **🔗 Other Notable Projects:**
-- **Supply Chain Efficiency Platform:** Smart contracts and AI algorithms to minimize wastage
-- **Service Finder Platform:** Connecting users with service professionals
-- **Instagram Clone:** Full-featured social media app with Flutter & Firebase
-
-
-----
+</div>
