@@ -4,14 +4,13 @@
 <!--  ║                        HEADER                               ║  -->
 <!--  ╚══════════════════════════════════════════════════════════════╝  -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0f3460,100:1a1a2e&height=280&section=header&text=Narasimha%20Naidu&fontSize=68&fontColor=ffffff&fontAlignY=45&desc=Flutter%20·%20Full%20Stack%20·%20AI%2FML%20·%20Quantum%20Computing&descSize=17&descColor=4db8ff&descAlignY=64&stroke=4db8ff&strokeWidth=1" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0f3460,100:1a1a2e&height=180&section=header&text=Narasimha%20Naidu&fontSize=68&fontColor=ffffff&fontAlignY=45&desc=Flutter%20·%20Full%20Stack%20·%20AI%2FML%20·%20Quantum%20Computing&descSize=17&descColor=4db8ff&descAlignY=64&stroke=4db8ff&strokeWidth=1" width="100%" />
 
-<br/>
 
 <!-- Typing animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=800&color=4DB8FF&center=true&vCenter=true&width=560&lines=%E2%9D%AF+Freelance+Flutter+%26+Full-Stack+Developer;%E2%9D%AF+AI+Agent+%26+n8n+Automation+Engineer;%E2%9D%AF+Quantum+Computing+Researcher+%7C+IBM+Qiskit;%E2%9D%AF+3x+Published+%7C+IEEE+%C2%B7+EAI+%C2%B7+Sustainability;%E2%9D%AF+AQVH+2025+Hackathon+Winner" alt="typing" />
 
-<br/><br/>
+<br/>
 
 <!-- Stats pills row -->
 <!-- ![](https://img.shields.io/badge/CGPA-9.29%2F10-4db8ff?style=flat-square&labelColor=0d1117) -->
@@ -20,7 +19,7 @@
 ![](https://img.shields.io/badge/Production%20Users-1000%2B-4db8ff?style=flat-square&labelColor=0d1117)
 ![](https://img.shields.io/badge/PyPI%20Package-SimhaCLI-4db8ff?style=flat-square&labelColor=0d1117)
 
-<br/><br/>
+<br/>
 
 <!-- Social badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/narasimhanaidukorrapati/)
@@ -41,29 +40,45 @@
 
 ---
 
-## `❯ whoami`
+## ❯ whoami
 
+```dart
+final developer = Developer(
+  name: "Korrapati Thirumala Narasimha Naidu",
+  location: "Bhimavaram, Andhra Pradesh, India",
+  degree: "B.Tech CSE (Honors in AI & ML), VIT Bhimavaram",
+  batch: "2022–2026",
+
+  roles: [
+    "Freelance Flutter Developer (Android · iOS · Web)",
+    "AI Agent & Automation Engineer (n8n)",
+    "Technical Lead @ GDGoC VIT Bhimavaram",
+  ],
+
+  achievements: {
+    "researchPapers": 3, // 1 Journal · 2 Conferences
+    "appsOnPlayStore": 4,
+    "hackathons": [
+      "AQVH 2025 Winner",
+      "Top 105 Google Dev Hackathon 2025",
+    ],
+  },
+
+  building: [
+    "AI Agents & Automation Workflows",
+    "Flutter Apps with Production Users",
+    "SimhaCLI — AI Terminal Agent (PyPI)",
+  ],
+
+  exploring: [
+    "Quantum Computing",
+    "AI Agents",
+    "Flutter",
+  ],
+
+  openTo: ["Freelance", "Collaboration", "Research"],
+);
 ```
-> narasimha --profile
-
-┌─────────────────────────────────────────────────────────────────────┐
-│  Name     :  Korrapati Thirumala Narasimha Naidu                    │
-│  Location :  Bhimavaram, Andhra Pradesh, India                      │
-│  Degree   :  B.Tech CSE (Honors in AI & ML) · VIT Bhimavaram       │
-│  Batch    : 2022–2026  
-├─────────────────────────────────────────────────────────────────────┤
-│  Role 1   :  Freelance Flutter & Full-Stack Developer               │
-│  Role 2   :  AI Agent & Automation Engineer (n8n)                   │
-│  Role 3   :  Technical Lead · GDGoC VITB                            │
-├─────────────────────────────────────────────────────────────────────┤
-│  Papers   :  3  (1 Journal · 2 Conferences)                         │
-│  Apps     :  4  (Live on Google Play Store)                         │
-│  Wins     :  AQVH 2025 Winner · Top 105 Google Dev Hackathon 2025  │
-└─────────────────────────────────────────────────────────────────────┘
-
-✦ Currently exploring: Quantum Computing · AI Agents · Flutter
-```
-
 ---
 
 ## `❯ tech-stack --list-all`
@@ -126,20 +141,20 @@
 **`[1/2]`** 🏢 **Full Stack Developer — CHAUWK** `Oct 2024 – Mar 2025 · Remote`
 > *AI-powered Blue-Collar Workforce Platform*
 
-- ✦ Architected AI resume creator with gamified UI → user engagement **+35%**
-- ✦ Designed multi-language AI chatbot with a 3-member AI team
-- ✦ Optimized system performance by **20%** via efficient state management
-- ✦ Deployed to Google Play Store → **1000+ active users**
+✦ Architected AI resume creator with gamified UI → user engagement **+35%**  
+✦ Designed multi-language AI chatbot with a 3-member AI team  
+✦ Optimized system performance by **20%** via efficient state management  
+✦ Deployed to Google Play Store → **1000+ active users**
 
 ---
 
 **`[2/2]`** 🏨 **Flutter Developer — OG Hospitality (OHSM)** `Jun 2024 – Sep 2024 · Remote`
 > *Smart PMS for Indian Hoteliers*
 
-- ✦ Automated attendance tracking — manual reporting time reduced by **60%**
-- ✦ Built POS system processing **100+ daily orders**
-- ✦ Designed responsive UI for **40%** of the application
-- ✦ Implemented RESTful API integration for real-time data sync
+✦ Automated attendance tracking — manual reporting time reduced by **60%**  
+✦ Built POS system processing **100+ daily orders**  
+✦ Designed responsive UI for **40%** of the application  
+✦ Implemented RESTful API integration for real-time data sync  
 
 ---
 
