@@ -13,7 +13,7 @@
 <br/>
 
 <!-- Stats pills row -->
-<!-- ![](https://img.shields.io/badge/CGPA-9.29%2F10-4db8ff?style=flat-square&labelColor=0d1117) -->
+<!-- ![](https://img.shields.io/badge/CGPA-9.14%2F10-4db8ff?style=flat-square&labelColor=0d1117) -->
 ![](https://img.shields.io/badge/Apps%20on%20Play%20Store-4-4db8ff?style=flat-square&labelColor=0d1117)
 ![](https://img.shields.io/badge/Research%20Papers-3-4db8ff?style=flat-square&labelColor=0d1117)
 ![](https://img.shields.io/badge/Production%20Users-1000%2B-4db8ff?style=flat-square&labelColor=0d1117)
@@ -214,7 +214,7 @@ final developer = Developer(
   📱  Apps on Google Play Store           →  4  (Live & Active)
   👥  Production Users                    →  1000+
   📦  PyPI Package                        →  SimhaCLI  (Published)
-  🎓  B.Tech CGPA                         →  9.29 / 10.0
+  🎓  B.Tech CGPA                         →  9.14 / 10.0
   🏫  Leadership Roles                    →  Tech Lead @ GDGoC + E-Cell VITB
 ```
 
